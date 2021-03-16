@@ -1,2 +1,3 @@
 # Thread
-Matris çarpma işleminin thread ile gerçekleştirimi
+
+Matrix multiplication with thread
